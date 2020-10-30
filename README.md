@@ -27,4 +27,10 @@ Interactions betwen organisms include:
 * **Commensalism** - two species living together, where one species benefits but the other is neither harmed or benefited.
 #### 2. ENERGY TRANSFER
 ##### 2.1 NON-CYCLIC ENERGY FLOW
-* Energy flow in the ecosystem is undirectional and cannot be recycles. Thus, energy has to be constantly supplied to the ecosystem.
+* **Energy flow in the ecosystem is undirectional and cannot be recycles.** Thus, energy has to be constantly supplied to the ecosystem.
+* Energy enters most ecosystems as light energy from the sun, which is the ultimate source of energy
+* This energy is converted into chemical energy by the photosynthetic plants via photosynthesis, and is transferred from one organism to another organism through feeding as carbon compounds.
+* carbon dioxide **+** water **=** oxygen **+** glucose
+Energy is lost to the environmment as heat during respiration as it flows through the ecosystem
+**Cellular respiration** - The breakdown of glucose in the presence of oxygen, releasing large amounts of energy, carbon dioxide and water
+* glucose **+** oxygen **=** carbon dioxide **+** water **+** energy
