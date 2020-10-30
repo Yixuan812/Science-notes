@@ -25,3 +25,6 @@ Interactions betwen organisms include:
 * **Parasitism** - one species (parasitie) lives at the expense of another species (host)
 * **Mutualism** - two species living together, with both benefiting each other
 * **Commensalism** - two species living together, where one species benefits but the other is neither harmed or benefited.
+#### 2. ENERGY TRANSFER
+##### 2.1 NON-CYCLIC ENERGY FLOW
+* Energy flow in the ecosystem is undirectional and cannot be recycles. Thus, energy has to be constantly supplied to the ecosystem.
